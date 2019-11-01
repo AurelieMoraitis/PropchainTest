@@ -1,0 +1,11 @@
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\bin\Debug\netcoreapp2.1\ExerciceC.deps.json
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\bin\Debug\netcoreapp2.1\ExerciceC.runtimeconfig.json
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\bin\Debug\netcoreapp2.1\ExerciceC.runtimeconfig.dev.json
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\bin\Debug\netcoreapp2.1\ExerciceC.dll
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\bin\Debug\netcoreapp2.1\ExerciceC.pdb
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\obj\Debug\netcoreapp2.1\ExerciceC.csprojAssemblyReference.cache
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\obj\Debug\netcoreapp2.1\ExerciceC.csproj.CoreCompileInputs.cache
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\obj\Debug\netcoreapp2.1\ExerciceC.AssemblyInfoInputs.cache
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\obj\Debug\netcoreapp2.1\ExerciceC.AssemblyInfo.cs
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\obj\Debug\netcoreapp2.1\ExerciceC.dll
+C:\Users\morai\Desktop\PropchainTest\TestPropchain\ExerciceC\obj\Debug\netcoreapp2.1\ExerciceC.pdb
